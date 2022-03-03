@@ -19,7 +19,10 @@ https://learnbyexample.github.io/100_page_python_intro/exception-handling.html
 https://www.w3schools.com/python/ref_string_isnumberic.asp
 
 ## Creating the Python Script
-For this assignment I used PyCharm to create the python script. To start, I created a new project in PyCharm that uses the folder _PythonClass\Assignment07. Within this project, I created a new python script file named Assignment07.py.
+For this assignment I used PyCharm to create the python script. To start, I created a new project in PyCharm that uses the folder _PythonClass\Assignment07. Within this project, I created a new python script file named Assignment07.py (see figure 1).
+
+![Figure 1](https://github.com/dla425/IntroToProg-Python-Mod07/blob/main/docs/image1.png "Figure 1:  New project and python script in PyCharm")
+
 I started my script with a header that included information such as title, developer, date, and a change log.  I started the script by importing pickle in Python.  I then set up three sections, Data, Processing, and Presentation, to divide my code for this program.
 ### Data Section:
 In the data section, I declared my variables and constants.
@@ -125,13 +128,25 @@ while (True):
 ## Running the program:
 I first ran the program entering in each menu choice to confirm that the pickling was working.  A screenshot of the output for each menu item is shown in Figure 2 and the binary file ‘ChildData.bat” that was created in Figure 3.
 
+![Figure 2](https://github.com/dla425/IntroToProg-Python-Mod07/blob/main/docs/image2.png)
+![Figure 2](https://github.com/dla425/IntroToProg-Python-Mod07/blob/main/docs/image3.png "Figure 2:  Screenshot of the pickling portion of the script running PyCharm")
+
+![Figure 3](https://github.com/dla425/IntroToProg-Python-Mod07/blob/main/docs/image4.png "Figure 3:  A screenshot of the binary file created")
+
 Next I ran the program and specifically enter wrong information in order to trigger the exception handling portion of the script.  A screenshot of that exception handling output is shown in figure 4.
+
+![Figure 4](https://github.com/dla425/IntroToProg-Python-Mod07/blob/main/docs/image5.png)
+![Figure 4](https://github.com/dla425/IntroToProg-Python-Mod07/blob/main/docs/image6.png "Figure 4:  Screenshot of the pickling portion of the script running PyCharm")
 
 ## Post Files to GitHub 
 After creating a GitHub repository named “IntoToProg-Python-Mod07” in my account, I uploaded the Assignement07 files and committed the changes.  As a last step, I shared the link to my GitHub repository on the canvas discussion board for peer review.  
 
+![Figure 5](https://github.com/dla425/IntroToProg-Python-Mod07/blob/main/docs/image7.png "Figure 5:  Screenshot of files loaded into my GitHub account")
+
 ## Add a GitHub Webpage
 I created a GitHub webpage in my IntroToProg-Python-Mod07 repository, named index.md.  This webpage included the text, images, and links from this document.
+
+![Figure 6](https://github.com/dla425/IntroToProg-Python-Mod07/blob/main/docs/image8.png "Figure 6:  Screenshot of the GitHub webpage")
 
 ## Summary
 To complete this assignment, I needed to understand how the pickle module and exception handling worked in Python.  Although the course video in module 7 by Randall Root and chapter 7 in text book gave me the basic information needed to understand the concepts, the information I found within the noted websites helped me to complete the script.
